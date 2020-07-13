@@ -1,8 +1,28 @@
-### Buongiorno 👋
-
-- 👨‍💻 Work: [TurboAPI](https://turboapi.dev) 
-- ✏️ Words: [https://joshghent.com](https://joshghent.com)
-- 🌱 Learning: Rust, Italian, French and Korean
-- 🐦 Tweets: [@joshghent](https://twitter.com/joshghent)
-- 💌 Love Letters: [me@joshghent.com](mailto:me@joshghent.com)
-
+             ________________________________________________
+            /                                                \
+           |    _________________________________________     |
+           |   |                                         |    |
+           |   |  $ bash ./intro.sh.                     |    |
+           |   |  Hello my name is Josh                  |    |
+           |   |  I am currently building TurboAPI       |    |
+           |   |  A simple but powerful performance      |    |
+           |   |  monitoring service for webhooks        |    |
+           |   |  and API's.                             |    |
+           |   |  I'm also learning Italian, Korean,     |    |
+           |   |  French and Rust.                       |    |
+           |   |                                         |    |
+           |   |  I write about tech and other learnings |    |
+           |   |  on https://joshghent.com               |    |
+           |   |                                         |    |
+           |   |_________________________________________|    |
+           |                                                  |
+            \_________________________________________________/
+                   \___________________________________/
+                ___________________________________________
+             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
+ _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
+:-------------------------------------------------------------------------:
+'---._.-------------------------------------------------------------._.---'
