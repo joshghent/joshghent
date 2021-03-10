@@ -3,14 +3,14 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  $ bash ./intro.sh.                     |    |
-           |   |  Hello my name is Josh                  |    |
+           |   |  ~ $ bash ./intro.sh.                   |    |
+           |   |  Hello, my name is Josh                 |    |
            |   |  I am currently building TurboAPI       |    |
            |   |  A simple but powerful performance      |    |
            |   |  monitoring service for webhooks        |    |
            |   |  and API's.                             |    |
-           |   |  I'm also learning Italian, Korean,     |    |
-           |   |  French and Rust.                       |    |
+           |   |  I'm also learning Italian with my wife |    |
+           |   |                                         |    |
            |   |                                         |    |
            |   |  I write about tech and other learnings |    |
            |   |  on https://joshghent.com               |    |
