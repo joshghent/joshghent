@@ -4,7 +4,10 @@
 
 I love building minimalistic tools and delightful web experiences.
 
-Currently working on [LoginLlama](https://loginllama.app) a tool to detect suspicious logins 🦙. And [Bucketscan](https://bucketscan.com), an antivirus platform for cloud storage (S3, R2, Azure Blob).
+Currently working on...
+- [LoginLlama](https://loginllama.app) a tool to detect suspicious logins 🦙
+- [Bucketscan](https://bucketscan.com), an antivirus platform for cloud storage (S3, R2, Azure Blob).
+- [PlanPacer](https://planpacer.com), Payment plans for Stripe. Create flexible installment payments and boost your conversion rates with PlanPacer's developer-friendly API.
 
 I am also writing on [🌍 my website/🪴 digital garden](https://joshghent.com/).
 
