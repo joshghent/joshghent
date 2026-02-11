@@ -16,7 +16,7 @@ And some open source projects
 - [Todoist Wrapped](https://github.com/joshghent/todoist-wrapped) Unofficial Todoist wrapped you can generate yourself
 - [Rescue Box](https://github.com/joshghent/rescue-box) Rescuetime stats in a github gist
 - [Allgood](https://github.com/joshghent/allgood) an easy way to add a comprehensive healthcheck to your TS/JS apps (supports Express, Hono, Fastify)
-- [Durations] easily calculate durations for SCORM packages, audio and podcasts.
+- [Durations](https://github.com/joshghent/duration-api) easily calculate durations for SCORM packages, audio and podcasts (written in Rust)
 
 I am also writing on [🌍 my website/🪴 digital garden](https://joshghent.com/).
 
